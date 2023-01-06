@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "879167394554",
+    "project_id": "mavspace",
+    "storage_bucket": "mavspace.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:879167394554:android:2f2490580ec924e589af43",
+        "android_client_info": {
+          "package_name": "com.creed.mavspace"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "879167394554-orqjblg95u0qquo9qshicakkdogdsl29.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.creed.mavspace",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "879167394554-4topate3g3g66nf2tgag3ficnbvgub4n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1uAz_7NZ9hnEvVHTuevPW_G1ZvA9TCrc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "879167394554-4topate3g3g66nf2tgag3ficnbvgub4n.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "879167394554-d3l2l9upm86s4ebmk54b3uo9utdugsmv.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.creed.mavspace"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
